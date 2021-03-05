@@ -1,0 +1,11 @@
+Find whether an array is subset of another array.
+
+Method #1: Simple
+
+Method #2: Sorting & Binary Search
+
+Method #3: Sorting & Merging
+
+Method #4: Hashing
+
+Method #5: Set
